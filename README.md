@@ -16,5 +16,5 @@ Esta es una aplicación en la que puedes encontrar ejercicios para cuidar tu sal
   -Estadísitcas de uso y seguimiento de la salud visual.
 
 ## Información de la licencia
-Este Proyecto esta bajo licencia MIT. Consulta el archivo LICENSE para más detalle.
+Este Proyecto esta bajo licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalle.
 
